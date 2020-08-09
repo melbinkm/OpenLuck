@@ -7,7 +7,7 @@ This Exploit (https://www.exploit-db.com/exploits/764/) is outdated. Here you ca
 
 1. Download OpenFuck.c
 ```
-git clone https://github.com/heltonWernik/OpenFuck.git
+git clone https://github.com/melbinkm/OpenLuck.git
 ```
 2. Install ssl-dev library
 
